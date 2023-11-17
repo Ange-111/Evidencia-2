@@ -1,2 +1,10 @@
-# Evidencia-2
+# Evidencia-2 redacción
 Realizar una clase en jupyter notebook
+
+En este ejemplo, la clase Persona tiene un constructor __init__ que se llama cuando se
+crea una nueva instancia de la clase. La clase también tiene atributos (_nombre y _edad),
+propiedades (nombre y edad) que permiten acceder y modificar los atributos de manera
+controlada, y un método (imprimir_informacion) que imprime la información de la persona.
+La demostración de uso crea una instancia de la clase Persona, imprime su información,
+modifica el nombre y la edad utilizando las propiedades, y luego imprime la información
+actualizada.
